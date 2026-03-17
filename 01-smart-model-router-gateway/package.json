@@ -1,0 +1,26 @@
+{
+  "name": "posgrad-2-apis-ia-generativa-e-prompt-engineering",
+  "version": "1.0.0",
+  "description": "readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --inspect --watch src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/falkondev/posgrad-2-apis-ia-generativa-e-prompt-engineering.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/falkondev/posgrad-2-apis-ia-generativa-e-prompt-engineering/issues"
+  },
+  "homepage": "https://github.com/falkondev/posgrad-2-apis-ia-generativa-e-prompt-engineering#readme",
+  "dependencies": {
+    "@types/node": "^24.12.0",
+    "fastify": "^5.7.4"
+  }
+}
